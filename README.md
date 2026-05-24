@@ -1,7 +1,8 @@
 # Hey, I'm Nishant 👋
 
-Software engineer with 3+ years of experience across fintech and startups. I build robust backend systems and maintainable full-stack products which can scale.
-🎓 Completed my MS in Computer Software Engineering from Northeastern University in Boston, MA.
+Software engineer with 3+ years of experience across fintech and startups. 
+I build robust backend systems, interesting frontend user experiences, and maintainable full-stack products which can scale.
+🎓 Completed my MS in Computer Software Engineering from Northeastern University in Boston, MA
 
 ---
 
